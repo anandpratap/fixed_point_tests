@@ -1,0 +1,3 @@
+./fp
+./advection_fp 10001 1000
+./advection 10001 1000
